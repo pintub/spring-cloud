@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>limits-service</module>
+    <module>spring-cloud-config-server</module>
   </modules>
   <name>spring-cloud</name>
   <!-- FIXME change it to the project's website -->
