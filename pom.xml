@@ -11,6 +11,10 @@
   <modules>
     <module>limits-service</module>
     <module>spring-cloud-config-server</module>
+    <module>currency-exchange-service</module>
+    <module>currency-conversion-service</module>
+    <module>netflix-eureka-naming-server</module>
+    <module>netflix-zuul-api-gateway-server</module>
   </modules>
   <name>spring-cloud</name>
   <!-- FIXME change it to the project's website -->
